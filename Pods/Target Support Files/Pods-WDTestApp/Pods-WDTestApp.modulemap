@@ -1,0 +1,6 @@
+framework module Pods_WDTestApp {
+  umbrella header "Pods-WDTestApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

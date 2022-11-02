@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.4.3)
+  - ANActivityIndicator (1.2.0)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - ANActivityIndicator
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ANActivityIndicator
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  ANActivityIndicator: 44a996931d0c554cf157b31056603b23bbdbe76a
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+
+PODFILE CHECKSUM: 759bbac0d5e499d08c2d9131a86311d4a2f50ba7
+
+COCOAPODS: 1.10.1
